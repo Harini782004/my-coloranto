@@ -3,7 +3,7 @@
 This project was built by Sivaharini.
 contact: sivaharini782004@gmail.com
 
-# Colorization Project
+## Colorization Project
 
 This project implements image colorization using deep learning models. It uses pre-trained models (`ECCV16` and `SIGGRAPH17`) to colorize grayscale images.
 
